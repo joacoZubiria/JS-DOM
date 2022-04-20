@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", e => {
         
     alarm("assets/alarma.mp3","#startAlarm","#stopAlarm");
     
-    countDown("countdown","Dec 03, 2021 18:00:00", "cringe");
+    countDown("countdown","Dec 03, 2022 18:00:00", "fin cronometro");
     
     scrollToTop(".scroll-top-btn");
     
